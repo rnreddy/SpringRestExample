@@ -18,11 +18,6 @@
 		<sonar.exclusions></sonar.exclusions>
 	</properties>
 	<dependencies>
-<dependency>
-    <groupId>org.codehaus.sonar</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.5.1</version>
-</dependency>
 		<!-- Jackson -->
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
